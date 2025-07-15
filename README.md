@@ -11,3 +11,4 @@
 | 7       | [Considerations for Working With Stakeholders?](https://github.com/victoria307/DSPG_2025/blob/main/slide/Engaging%20Stakeholders%20Through%20Stories.pdf)  |  Eric Kaufman |
 | 8       | [Introduction to Hypothesis Testing](https://github.com/victoria307/DSPG_2025/tree/main/slide/Statistics)    | Anbin Rhee      |
 | 9       | [Common Statistic Models with R](https://github.com/victoria307/DSPG_2025/tree/main/slide/Statistics)    | Anbin Rhee      |
+| 10      | [LLM & Real World Application](https://github.com/victoria307/DSPG_2025/tree/main/slide/LLM%20%26%20Real%20World%20Application) | Jun Hou  |
